@@ -1,2 +1,4 @@
 # Dreamteam
-Deep_learning-gir
+Deep_learn
+
+Кобзев Алексей Валерьевич
