@@ -1,4 +1,13 @@
 # Dreamteam
-Deep_learning-gir
 
-Глумов Олег
+Артемьев Дмитрий ArtXDim
+
+Николай Щербаков  Frontend-developer
+
+Трифонов Алексей Python kolob 2000
+
+Кобзев Алексей Валерьевич KobzevAlexey
+
+Евтушевский Павел Игоревич nntspector
+
+Глумов Олег 
