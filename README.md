@@ -1,8 +1,8 @@
 # Dreamteam
-Николай Щербаков  Frontend-developer
+Николай Щербаков  Frontend-developer ArtXDim
 
-Трифонов Алексей Python
+Трифонов Алексей Python kolob 2000
 
-Кобзев Алексей Валерьевич
+Кобзев Алексей Валерьевич KobzevAlexey
 
-Евтушевский Павел Игоревич
+Евтушевский Павел Игоревич nntspector
